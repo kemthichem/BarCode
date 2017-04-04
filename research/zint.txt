@@ -1,0 +1,5 @@
+http://www.zint.org.uk/
+
+
+Sample command:
+zint -o b.png --notext -d "KH-00123"
